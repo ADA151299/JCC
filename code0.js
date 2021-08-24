@@ -85,6 +85,7 @@ gdjs.PortadaCode.condition1IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdj
 }}
 if (gdjs.PortadaCode.condition1IsTrue_0.val) {
 {gdjs.evtTools.runtimeScene.stopGame(runtimeScene);
+}{gdjs.evtTools.window.openURL("www.google.com", runtimeScene);
 }}
 
 }
